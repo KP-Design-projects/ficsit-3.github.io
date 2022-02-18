@@ -3,8 +3,33 @@
     color: greenyellow;
 }
 
+.card-animated{
+  border: 1px solid #274969f3;
+  border-radius: 15px;
+  margin: 15px;
+  padding: 15px;
+  box-shadow: 5px 0px 6px 0px #274969f3;
+}
+
+.card-animated:hover{
+  box-shadow: 15px 0px 16px 0px #274969f3;
+  transition: 1s;
+}
+
 @keyframes blinker {
     50% {
       opacity: 0;
     }
   }
+
+@media (max-width:1020px) {
+  #map-resizing{
+    margin-top: 100px;
+  }
+}
+
+@media (max-width:1020px) {
+  .text-resize{
+    font-size: 10px;
+  }
+}

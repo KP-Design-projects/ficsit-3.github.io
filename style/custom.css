@@ -1,7 +1,80 @@
+.box-sp{
+  border: 1px solid black;
+  width: 250px;
+  height: 250px;
+  padding:5px;
+  margin: 10px;
+  background-image: url(https://images.unsplash.com/photo-1608454770647-01dc0f7dd97d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;  
+}
+
+.box-sp1 {
+  border: 1px solid black;
+  width: 250px;
+  height: 250px;
+  padding:5px;
+  margin: 10px;
+  background-image: url();
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;  
+}
+
+.box-sp2 {
+  border: 1px solid black;
+  width: 250px;
+  height: 250px;
+  padding:5px;
+  margin: 10px;
+  background-image: url();
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;  
+}
+
+.box-sp3 {
+  border: 1px solid black;
+  width: 250px;
+  height: 250px;
+  padding:5px;
+  margin: 10px;
+  background-image: url();
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;  
+}
+
+.box-sp4 {
+  border: 1px solid black;
+  width: 250px;
+  height: 250px;
+  padding:5px;
+  margin: 10px;
+  background-image: url();
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;  
+}
+
+.box-sp5 {
+  border: 1px solid black;
+  width: 250px;
+  height: 250px;
+  padding:5px;
+  margin: 10px;
+  background-image: url();
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;  
+}
+
 .flash{
     animation: blinker 1s linear infinite;
     color: greenyellow;
 }
+
 
 .card-animated{
   border: 1px solid #274969f3;
@@ -32,4 +105,14 @@
   .text-resize{
     font-size: 10px;
   }
+}
+
+
+.hero-style-reservation{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.795)), url(https://greenappliancerepairs.co.uk/assets/images/services/integrated-appliance-repair-service.jpg);
+  height:100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
 }
